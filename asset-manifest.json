@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/go-design-patterns/static/css/main.5f361e03.chunk.css",
+    "main.js": "/go-design-patterns/static/js/main.49072930.chunk.js",
+    "main.js.map": "/go-design-patterns/static/js/main.49072930.chunk.js.map",
+    "runtime-main.js": "/go-design-patterns/static/js/runtime-main.14eaf2d9.js",
+    "runtime-main.js.map": "/go-design-patterns/static/js/runtime-main.14eaf2d9.js.map",
+    "static/js/2.12032f5a.chunk.js": "/go-design-patterns/static/js/2.12032f5a.chunk.js",
+    "static/js/2.12032f5a.chunk.js.map": "/go-design-patterns/static/js/2.12032f5a.chunk.js.map",
+    "index.html": "/go-design-patterns/index.html",
+    "precache-manifest.4c5d7eac6da999cf501ac05c9109d8b9.js": "/go-design-patterns/precache-manifest.4c5d7eac6da999cf501ac05c9109d8b9.js",
+    "service-worker.js": "/go-design-patterns/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/go-design-patterns/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.12032f5a.chunk.js.LICENSE.txt": "/go-design-patterns/static/js/2.12032f5a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/go-design-patterns/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14eaf2d9.js",
+    "static/js/2.12032f5a.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.49072930.chunk.js"
+  ]
+}
