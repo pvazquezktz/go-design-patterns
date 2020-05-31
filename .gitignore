@@ -1,0 +1,5 @@
+docs/node_modules/
+*.iml
+.DS_Store
+docs/.DS_Store
+docs/.idea/
