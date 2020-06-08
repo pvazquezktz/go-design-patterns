@@ -19,4 +19,10 @@ func TestGetInstance(t *testing.T) {
 
 	assert.Equal(t, 3, pizzasDelivered, "pizzasDelivered is not the expected")
 
+	_, isOk := pDelivery1.(*PizzaDelivery)
+	assert.True(t, isOk, "type assertion for pDelivery1 failed")
+
+	_, isOk2 := pDelivery2.(*PizzaDelivery)
+	assert.True(t, isOk2, "type assertion for pDelivery2 failed")
+
 }
