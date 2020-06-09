@@ -1,5 +1,12 @@
 package builder
 
+type IBuilder interface {
+	SetIngredients() IBuilder
+	SetDough() IBuilder
+	SetShape() IBuilder
+	Build() Pizza
+}
+
 // The director defines the order in which to execute the building steps
 type PizzaMakerDirector struct {
 	builder IBuilder
